@@ -1,0 +1,21 @@
+
+
+
+
+entity Order {
+
+}
+
+entity Customer{
+	name String
+}
+
+entity Product{
+	name String
+}
+
+entity OrderDetail{
+	
+	amount Integer
+}
+
