@@ -1,0 +1,21 @@
+{
+  "name": "OrderDetail",
+  "fields": [
+    {
+      "fieldName": "amount",
+      "fieldType": "Integer"
+    }
+  ],
+  "relationships": [],
+  "changelogDate": "20200731073436",
+  "entityTableName": "order_detail",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "",
+  "applications": "*"
+}
